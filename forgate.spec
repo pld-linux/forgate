@@ -3,7 +3,7 @@ Summary(pl):	Narzêdzie przechwytuj±ce pakiety w sieciach opartych na switchach
 Name:		forgate
 Version:	0.9
 Release:	1
-License:	GPL	
+License:	GPL
 Vendor:		Darren Bounds <dbounds@intrusense.com>
 Group:		Applications/Network
 Source0:	http://forgate.sourceforge.net/downloads/%{name}-%{version}.tgz
