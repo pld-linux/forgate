@@ -1,0 +1,22 @@
+diff -burN forgate-0.9.orig/src/globals.h forgate-0.9/src/globals.h
+--- forgate-0.9.orig/src/globals.h	2004-01-24 13:22:46.587160912 +0100
++++ forgate-0.9/src/globals.h	2004-01-24 13:22:58.578337976 +0100
+@@ -31,7 +31,6 @@
+ #include <libnet.h>
+ #include <pcap.h>
+ #include <sys/types.h>
+-#include <net/bpf.h>
+ #include <signal.h>
+ #include <time.h>
+ #include <stdio.h>
+diff -burN forgate-0.9.orig/src/main.h forgate-0.9/src/main.h
+--- forgate-0.9.orig/src/main.h	2004-01-24 13:22:46.586161064 +0100
++++ forgate-0.9/src/main.h	2004-01-24 13:53:56.948822720 +0100
+@@ -26,7 +26,6 @@
+ #include <libnet.h>
+ #include <pcap.h>
+ #include <sys/types.h>
+-#include <net/bpf.h>
+ #include <signal.h>
+ #include <time.h>
+ #include <stdio.h>
