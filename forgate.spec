@@ -8,7 +8,7 @@ Release:	1
 License:	GPL	
 Group:		Applications/Network
 Vendor:		Darren Bounds <dbounds@intrusense.com>
-Source0:	http://dl.sourceforge.net/forgate/%{name}-%{version}.tgz
+Source0:	http://forgate.sourceforge.net/downloads/%{name}-%{version}.tgz
 # Source0-md5:	b5455f0c83547769bd486877362f9553
 Patch0:		%{name}-bpf.patch
 URL:		http://forgate.sourceforge.net/
