@@ -1,5 +1,5 @@
 Summary:	A Packet Redirection Tool For Interception On Switched Networks
-Summary(pl):	Narzêdzie przechwytuj±ce pakiety w sieciach opartych na switchach
+Summary(pl.UTF-8):   NarzÄ™dzie przechwytujÄ…ce pakiety w sieciach opartych na switchach
 Name:		forgate
 Version:	0.9
 Release:	1
@@ -22,12 +22,12 @@ cache poisoning, packet capture and packet reconstruction to perform
 its task. It should work with nearly all TCP, ICMP and UDP IPv4
 traffic.
 
-%description -l pl
-Forgate zosta³o napisane jako dowód dzia³ania jednej z metod
-przechwytywania pakietów z innych komputerów w sieci opartej na
-switchach. Do wykonania zadania u¿ywa zatruwania cache ARP,
-przechwytywania pakietów oraz rekonstrukcji pakietów. Powinno dzia³aæ
-z prawie ka¿dym ruchem IPV4 TCP, ICMP i UDP.
+%description -l pl.UTF-8
+Forgate zostaÅ‚o napisane jako dowÃ³d dziaÅ‚ania jednej z metod
+przechwytywania pakietÃ³w z innych komputerÃ³w w sieci opartej na
+switchach. Do wykonania zadania uÅ¼ywa zatruwania cache ARP,
+przechwytywania pakietÃ³w oraz rekonstrukcji pakietÃ³w. Powinno dziaÅ‚aÄ‡
+z prawie kaÅ¼dym ruchem IPV4 TCP, ICMP i UDP.
 
 %prep
 %setup -q
