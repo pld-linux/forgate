@@ -1,5 +1,5 @@
 Summary:	A Packet Redirection Tool For Interception On Switched Networks
-Summary(pl.UTF-8):   Narzędzie przechwytujące pakiety w sieciach opartych na switchach
+Summary(pl.UTF-8):	Narzędzie przechwytujące pakiety w sieciach opartych na switchach
 Name:		forgate
 Version:	0.9
 Release:	1
